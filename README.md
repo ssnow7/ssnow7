@@ -1,9 +1,9 @@
-# Hi, I'm snow 👋
+# Hi, I'm snow.
 
 Backend / Full-Stack Developer focused on building practical software,
 automation systems and web applications.
 
-### 🛠 Tech Stack
+### Tech Stack
 - Python
 - JavaScript
 - SQL / SQLite / PostgreSQL
@@ -12,10 +12,10 @@ automation systems and web applications.
 - Git & GitHub
 - Vercel
 
-### 🚀 Currently working on
+### Currently working on
 A competitive gaming platform featuring matchmaking, ranking systems,
 player profiles, match history, Discord integration and automated
 data synchronization.
 
-### 📫 Contact
-Discord: ssnow7.
+### Contact
+📧 ssnow7@proton.me
