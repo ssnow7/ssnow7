@@ -1,21 +1,58 @@
-# Hi, I'm snow.
+# Hey, I'm snow.
 
-Backend / Full-Stack Developer focused on building practical software,
-automation systems and web applications.
+### Backend / Full-Stack Developer
 
-### Tech Stack
+I build web applications, backend systems and automation tools, with a focus on turning ideas into functional products.
+
+Currently working on projects involving competitive gaming platforms, Discord integrations, matchmaking systems and real-time data synchronization.
+
+##  Tech Stack
+
+**Languages**
 - Python
 - JavaScript
-- SQL / SQLite / PostgreSQL
-- Supabase
+- SQL
+- HTML / CSS
+
+**Backend & Data**
 - REST APIs
+- SQLite
+- PostgreSQL
+- Supabase
+- Discord.py
+
+**Tools & Deployment**
 - Git & GitHub
 - Vercel
+- Docker
+- OAuth
 
-### Currently working on
-A competitive gaming platform featuring matchmaking, ranking systems,
-player profiles, match history, Discord integration and automated
-data synchronization.
+##  Featured Project
 
-### Contact
-📧 ssnow7@proton.me
+### MamoBall Premier Platform
+
+Competitive gaming platform built around an automated Discord ecosystem and web application.
+
+**Features include:**
+- Automated matchmaking system
+- Ranking & ELO system
+- Player statistics and profiles
+- Match history
+- Multiple competitive queues
+- Discord role automation
+- Discord OAuth authentication
+- SQLite → API → Supabase data synchronization
+- Season management
+- Administration tools
+
+**Stack:** Python · JavaScript · SQLite · Supabase · Discord API · Vercel
+
+> The production repository is private.
+
+##  Currently learning
+
+Improving my backend and full-stack development skills, focusing on API design, databases, authentication and scalable application architecture.
+
+## 📫 Contact
+
+**Email:** ssnow7@proton.me
