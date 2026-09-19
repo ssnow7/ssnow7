@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm snow 👋
 
-<!--
-**ssnow7/ssnow7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Full-Stack Developer focused on building practical software,
+automation systems and web applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Python
+- JavaScript
+- SQL / SQLite / PostgreSQL
+- Supabase
+- REST APIs
+- Git & GitHub
+- Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently working on
+A competitive gaming platform featuring matchmaking, ranking systems,
+player profiles, match history, Discord integration and automated
+data synchronization.
+
+### 📫 Contact
+Discord: ssnow7.
