@@ -1,58 +1,38 @@
 # Hey, I'm snow.
 
-### Backend / Full-Stack Developer
+### Software & Game Developer
 
-I build web applications, backend systems and automation tools, with a focus on turning ideas into functional products.
+Developer focused on **game development, backend engineering and software systems**, with a strong interest in multiplayer architecture, networking and game infrastructure.
 
-Currently working on projects involving competitive gaming platforms, Discord integrations, matchmaking systems and real-time data synchronization.
+## Tech Stack
 
-##  Tech Stack
+**Languages**  
+`Python` · `C#` · `C++` · `JavaScript` · `TypeScript` · `Java` · `SQL` · `Lua` · `PowerShell`
 
-**Languages**
-- Python
-- JavaScript
-- SQL
-- HTML / CSS
+**Game Development**  
+`Unity` · `Unreal Engine` · `Blender` · `Multiplayer Systems` · `Game Networking` · `Client/Server Architecture`
 
-**Backend & Data**
-- REST APIs
-- SQLite
-- PostgreSQL
-- Supabase
-- Discord.py
+**Backend & Data**  
+`REST APIs` · `Node.js` · `PostgreSQL` · `SQLite` · `Supabase` · `WebSockets` · `OAuth` · `Docker`
 
-**Tools & Deployment**
-- Git & GitHub
-- Vercel
-- Docker
-- OAuth
+**Development Tools**  
+`Visual Studio` · `VS Code` · `Git/GitHub` · `Android Studio` · `ADB` · `Linux` · `Vercel`
 
-##  Featured Project
+**Creative Tools**  
+`Blender` · `After Effects` · `Photoshop` · `Premiere Pro`
 
-### MamoBall Premier Platform
+## Selected Projects
 
-Competitive gaming platform built around an automated Discord ecosystem and web application.
+### MBP — Made By Players
+Development of competitive gaming infrastructure including matchmaking, ranking systems, player statistics, Discord integrations and web services.
 
-**Features include:**
-- Automated matchmaking system
-- Ranking & ELO system
-- Player statistics and profiles
-- Match history
-- Multiple competitive queues
-- Discord role automation
-- Discord OAuth authentication
-- SQLite → API → Supabase data synchronization
-- Season management
-- Administration tools
+### Game Systems Research
+Research and experimentation with Unity-based games, client/server communication, networking, backend services, Android/PC environments and legacy software systems.
 
-**Stack:** Python · JavaScript · SQLite · Supabase · Discord API · Vercel
+## Currently Exploring
 
-> The production repository is private.
+`Game Architecture` · `Multiplayer Networking` · `Backend Infrastructure` · `Unity` · `Unreal Engine`
 
-##  Currently learning
+## Contact
 
-Improving my backend and full-stack development skills, focusing on API design, databases, authentication and scalable application architecture.
-
-## 📫 Contact
-
-**Email:** ssnow7@proton.me
+**ssnow7@proton.me**
